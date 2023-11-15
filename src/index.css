@@ -13,3 +13,10 @@
 .btn{
   @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider
 }
+/* footerCss */
+.headingTwo{
+  @apply text-white sm:text-base lg:text-xl font-sans font-bold
+}
+.anchorTag{
+  @apply text-white text-base font-sans font-light no-underline block transition-all duration-300 ease-in-out leading-6 pt-2
+}

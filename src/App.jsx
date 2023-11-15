@@ -1,10 +1,12 @@
 
-import Ninja from './Ninja'
+// import Ninja from './Ninja'
+import Footer from "./Footer"
 
 function App() {
   return (
     <>
-      <Ninja/>
+      {/* <Ninja/> */}
+      <Footer/>
     </>
   )
 }
